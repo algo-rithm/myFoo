@@ -1,0 +1,7 @@
+{
+  "name": "myFoo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
